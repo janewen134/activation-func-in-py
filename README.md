@@ -1,2 +1,2 @@
 # softmax-in-py
-softmax function realisation in python
+softmax function implementation in python
